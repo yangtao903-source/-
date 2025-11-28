@@ -1,5 +1,5 @@
 {
-  "name": "smartshop-checklist",
+  "name": "任务清单",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,7 +12,8 @@
     "@google/genai": "^1.30.0",
     "lucide-react": "^0.555.0",
     "react-dom": "^19.2.0",
-    "react": "^19.2.0"
+    "react": "^19.2.0",
+    "framer-motion": "11.18.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

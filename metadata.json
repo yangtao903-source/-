@@ -1,5 +1,5 @@
 {
-  "name": "SmartShop Checklist",
-  "description": "A mobile-first intelligent shopping list that helps you organize items by category and track your progress in real-time using Gemini AI.",
+  "name": "任务清单",
+  "description": "一个注重隐私的移动端任务清单应用，支持本地历史记录。",
   "requestFramePermissions": []
 }
